@@ -1,8 +1,11 @@
-# mh_Motion_Control v1.0.0
+# mh_Motion_Control
 
 Motion-controlled image capture for edelkrone HeadONE and SliderONE gear on
 Windows -- turntable capture, photogrammetry, keyframed Bezier moves and HDR
 panoramas, with every photo saved at the position it was actually taken.
+
+**First release (v1.1.0): late November 2026.**
+Web page: <https://anti-matter-3d.com/motion-control/>
 
 > mh_Motion_Control is not made or endorsed by edelkrone, but is an example of what's possible with the edelkrone SDK.
 
@@ -53,8 +56,8 @@ The release zip holds:
 
 | File | |
 |---|---|
-| `mh_Motion_Control_Win_x64_v1_0_0.exe` | the program -- unzip and double-click |
-| `mh_Motion_Control_v1_0_0_User_Manual.pdf` | user manual |
+| `mh_Motion_Control_Win_x64_v1_1_0.exe` | the program -- unzip and double-click |
+| `mh_Motion_Control_v1_1_0_User_Manual.pdf` | user manual |
 | `License_Agreement.pdf`, `License.txt` | licence terms |
 | `README.txt` | quick start |
 | `THIRD_PARTY_NOTICES.txt` | open-source notices |
@@ -102,8 +105,9 @@ edelkrone, HeadONE and SliderONE are trademarks of their owner. digiCamControl, 
 
 ## Security
 
-The exe is signed with a Certum code signing certificate, RFC 3161 timestamped, and was submitted to Microsoft (WDSI) and VirusTotal
-before release. Each release carries `SHA256SUMS.txt` and a signed catalogue
+Each release exe is signed with a Certum code signing certificate, RFC 3161
+timestamped, and submitted to Microsoft (WDSI) and VirusTotal before release.
+Each release carries `SHA256SUMS.txt` and a signed catalogue
 (`release_manifest.cat`).
 
 ## Keyboard shortcuts
@@ -118,6 +122,10 @@ before release. Each release carries `SHA256SUMS.txt` and a signed catalogue
 
 The tool moves real equipment. Keep the motion path clear of people and
 objects, and know where STOP is before you press START.
+
+## Web page
+
+<https://anti-matter-3d.com/motion-control/>
 
 ## More tools
 
