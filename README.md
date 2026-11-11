@@ -15,8 +15,9 @@ Web page: <https://anti-matter-3d.com/motion-control/>
 
 - **Turntable capture** -- a HeadONE on the Turntable Module turns the object
   through any number of positions per turn; a tilt HeadONE and a SliderONE change
-  the camera angle and height between rings, and CHECK RINGS shows each ring's
-  framing before you start. Rings can alternate direction, and a stopped
+  the camera angle and height between rings. Set the first ring's tilt by
+  value or from the camera, and CHECK RINGS shows each ring's framing before
+  you start. Rings can alternate direction, and a stopped
   capture can be resumed.
 - **Photogrammetry** -- turns a turntable capture into a project for
   RealityCapture / RealityScan, Agisoft Metashape or COLMAP, with every
