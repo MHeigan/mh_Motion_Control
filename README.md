@@ -114,7 +114,8 @@ photogrammetry, developed images are matched to the capture by file name.
 The tool writes XMP sidecars, CSV session logs and `session.json`; for
 panoramas a Papywizard XML (PTGui) and a Hugin `.pto`; for photogrammetry
 RealityCapture / RealityScan sidecars and masks, a Metashape reference file,
-a COLMAP known-pose model with a run script, and an HTML spin viewer.
+a COLMAP known-pose model with a run script that also writes point clouds
+(`.ply`) for use in a professional modelling app, and an HTML spin viewer.
 
 ## Licence
 
