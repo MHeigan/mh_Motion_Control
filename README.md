@@ -83,7 +83,7 @@ The release zip holds:
 | `README.txt` | quick start |
 | `THIRD_PARTY_NOTICES.txt` | open-source notices |
 | `SHA256SUMS.txt`, `release_manifest.cat`, `manifest.json`, `release_info.txt` | checksums and signed catalogue |
-| `_internal\` and other hidden files | runtime files -- do not modify |
+| `_internal\` | runtime files -- do not modify |
 
 No installer, Python or other software is needed.
 
