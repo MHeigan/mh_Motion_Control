@@ -78,6 +78,7 @@ The release zip holds:
 | `mh_Motion_Control_Win_x64_v1_1_0.exe` | the program -- unzip and double-click |
 | `mh_Motion_Control_v1_1_0_User_Manual.pdf` | user manual |
 | `mh_Motion_Control_v1_1_0_Quick_Start.pdf` | quick start: each workflow in a few steps |
+| `mh_Motion_Control_v1_1_0_COLMAP_Guide.pdf` | COLMAP guide: from a turntable capture to a point cloud |
 | `License_Agreement.pdf`, `License.txt` | licence terms |
 | `README.txt` | quick start |
 | `THIRD_PARTY_NOTICES.txt` | open-source notices |
