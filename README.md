@@ -1,13 +1,10 @@
-# mh_Motion_Control
+# mh_Motion_Control v1.1.0
 
 Motion-controlled image capture built around edelkrone's compact ONE series
 (HeadONE and SliderONE) on Windows -- turntable capture, photogrammetry,
 keyframed Bezier moves, HDR panoramas and focus stacks, with every photo saved
 at the position it was actually taken. A HeadONE or two and a SliderONE do it
 all; the computer does the planning, the measuring and the logging.
-
-**First release (v1.1.0): late November 2026.**
-Web page: <https://anti-matter-3d.com/motion-control/>
 
 > mh_Motion_Control is not made or endorsed by edelkrone, but is an example of what's possible with the edelkrone SDK.
 
@@ -127,8 +124,8 @@ edelkrone, HeadONE and SliderONE are trademarks of their owner. digiCamControl, 
 
 ## Security
 
-Each release exe is signed with a Certum code signing certificate, RFC 3161
-timestamped, and submitted to Microsoft (WDSI) and VirusTotal before release. Each release carries `SHA256SUMS.txt` and a signed catalogue
+The exe is signed with a Certum code signing certificate, RFC 3161 timestamped, and was submitted to Microsoft (WDSI) and VirusTotal
+before release. Each release carries `SHA256SUMS.txt` and a signed catalogue
 (`release_manifest.cat`).
 
 ## Keyboard shortcuts
