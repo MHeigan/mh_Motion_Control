@@ -8,6 +8,12 @@ all; the computer does the planning, the measuring and the logging.
 
 > mh_Motion_Control is not made or endorsed by edelkrone, but is an example of what's possible with the edelkrone SDK.
 
+## Download
+
+**[Download the latest release](https://github.com/MHeigan/mh_Motion_Control/releases/latest)** -- `mh_Motion_Control_v1_1_0.zip`,
+with the User Manual, the Quick Start and the COLMAP Guide inside. Unzip
+anywhere and run the exe; no installer is needed.
+
 ## Features
 
 - **Turntable capture** -- a HeadONE on the Turntable Module turns the object
